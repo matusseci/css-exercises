@@ -1,0 +1,19 @@
+.class_1 {
+    background-color: #e9967a;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#blue_id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.class_2 {
+    font-size: 24px;
+}
+
+#green_id {
+    background-color: #98fb98;
+    font-size: 24px;
+    font-weight: bold;
+}
